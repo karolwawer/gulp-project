@@ -18,6 +18,8 @@
   "homepage": "https://github.com/karolwawer/gulp-project#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-beautify": "^2.0.1",
+    "gulp-cssbeautify": "^1.0.0",
     "gulp-sass": "^4.0.1"
   }
 }

@@ -1,0 +1,16 @@
+@mixin flexCentered {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin flexCenteredVar($display, $wrap, $position) {
+    display: $display;
+    flex-wrap: $wrap;
+    justify-content: $position;
+    align-items: $position;
+    
+    
+    
+}
